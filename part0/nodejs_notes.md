@@ -1,0 +1,1 @@
+// Node.js is a runtime environment for JavaScript (runs without a page) (JavaScript engine + APIs (files, network, etc.))

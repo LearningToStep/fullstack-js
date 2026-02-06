@@ -7,6 +7,10 @@
 5. - Course is using Express Library (framework) for Node.js
 6. - Type 'Document' is the HTML code of the page in network under F12
 7. - Document Object Model (DOM) is an application programming interface (API)
+8. - A DOM is the tree strucure of HTML
+9. - A Node is a single Javascript object with properties & methods created by the browser, in the DOM tree structure or Memory [Dom Tree Example](domtreenodes.png)
+10. - An Element is a JavaScript object created by the browser to represent an HTML tag
+
 
 ### Link list:
 
