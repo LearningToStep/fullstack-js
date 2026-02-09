@@ -38,7 +38,6 @@ module.exports = { add, multiply }; // Allows the exporting of a class to other 
 // # Js interacts with/manipulates DOM Nodes
 
 // A Node is a single Javascript object with properties & methods created by the browser, in the DOM tree structure or on it's own in Memory
-
 // A Node if created by JavaScript can exist in memory on its own (not attached to the DOM tree yet)
 
 // An Element is a JavaScript object created by the browser to represent an HTML tag
@@ -50,7 +49,7 @@ DIV rawr (Element, Node)
 
 DIV // the tag name (tag without the < >) I am working with
 rawr // a JavaScript object name I can reference in my code
-Element // tells me rawr is an element (a tag object)
+Element // tells me rawr is an element (define object's node type)
 Node // tells me rawr is part of the DOM tree
 
 // ## List of DOM Node/Element navigation APIs (using 'var' as the reference)
