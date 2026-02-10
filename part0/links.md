@@ -1,0 +1,17 @@
+### HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+- [First class function](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
+- [Get Request Method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/GET)
+- [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [HTTP Header Fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+- [Content-Type header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Type)
+- [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [Expressjs](https://expressjs.com/)
+- [List of Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
+- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+- [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [Script Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script)
+- [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)

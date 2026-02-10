@@ -10,7 +10,7 @@
 8. - A DOM is the tree strucure of HTML
 9. - A Node is a single Javascript object with properties & methods created by the browser, in the DOM tree structure or Memory [Dom Tree Example](domtreenodes.png)
 10. - An Element is a JavaScript object created by the browser to represent an HTML tag
-
+11. - HTTP is an application layer protocol for transmitting hypermedia documents such as HTML. Uses are communication between browsers and servers, machine to machine communication, programmatic access to APIs
 
 ### Link list:
 
