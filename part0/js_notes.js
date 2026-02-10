@@ -15,6 +15,9 @@ function doSomething(callback) { // Calls the function 'doSomething'
 // A function can be returned by another function
 // A function can be assigned as a value in a variable
 
+// # Method
+// A method is a function inside of a object
+
 // # Callback function
 // When a function is called inside of another function as an argument, that is then executed in the outside function to complete a routine/action
 
